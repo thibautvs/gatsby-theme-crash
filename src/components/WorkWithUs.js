@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import faPhone from '@fortawesome/fontawesome-free-solid/faPhone'
-import StyledFontAwesomeIcon from '../StyledFontAwesomeIcon'
+import StyledFontAwesomeIcon from './StyledFontAwesomeIcon'
 
 const StyledA = styled.a`
   color: ${props => props.theme.colors.text};

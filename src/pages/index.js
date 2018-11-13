@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import Layout from '../components/Layout'
-import WorkWithUs from './index/WorkWithUs'
+import WorkWithUs from '../components/WorkWithUs'
 
 const ThisWorksInProd = styled.h1`
   color: ${props => props.theme.colors.gray};
